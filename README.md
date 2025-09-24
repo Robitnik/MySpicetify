@@ -1,1 +1,1 @@
-My configt
+My config

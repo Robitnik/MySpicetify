@@ -1,0 +1,7 @@
+# Spicetify artifacts
+Backup/
+Extracted/
+Storage/
+*.bak
+*.log
+
